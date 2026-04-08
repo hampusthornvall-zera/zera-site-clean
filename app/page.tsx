@@ -1,3 +1,5 @@
+"use client";
+
 import { useMemo, useRef, useState } from "react";
 
 type Direction = "left" | "right";
